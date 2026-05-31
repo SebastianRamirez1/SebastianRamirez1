@@ -144,3 +144,4 @@ Desarrollador backend con **6 meses de práctica profesional** en la Federación
 *Desarrollador backend construyendo soluciones reales con Java, Python y Node.js · Medellín, Colombia*
 
 </div>
+
