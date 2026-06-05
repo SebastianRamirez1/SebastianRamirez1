@@ -118,7 +118,7 @@ Desarrollador backend con **6 meses de práctica profesional** en la Federación
 
 ## 🌱 Actualmente
 
-- 🏢 Terminando mi práctica en **Federación Antioqueña de ONG** (Dic 2024 – Jun 2025)
+- 🏢 Completada mi práctica en **Federación Antioqueña de ONG** (Dic 2024 – Jun 2025)
 - 🎓 Completando **Ingeniería en Desarrollo de Software** en el ITM
 - 🔭 Construyendo proyectos con IA aplicada a problemas reales de negocio
 - 💼 **Abierto a oportunidades** de trabajo como Desarrollador Backend Junior
@@ -129,7 +129,7 @@ Desarrollador backend con **6 meses de práctica profesional** en la Federación
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sebastianramirezportfolio.netlify.app-5ee7ff?style=for-the-badge)](https://sebastianramirezportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sebastianramirezportfolio.netlify.app-5ee7ff?style=for-the-badge)](https://portafolio-profesional-cyan.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-ramirez-acevedo-2580ab2a5/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianacevedo123.sra@gmail.com)
