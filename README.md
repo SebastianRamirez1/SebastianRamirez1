@@ -2,13 +2,11 @@
 
 # Hola, soy Sebastián Ramírez 👋
 
-**Desarrollador Backend · Java · Python · Node.js**
+**Desarrollador Full-Stack · Java · Python · Node.js · React · IA aplicada**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sebastianramirezportfolio-5ee7ff?style=for-the-badge&logo=netlify&logoColor=white)]([[[https://sebastianramirezportfolio.netlify.app/](https://portafolio-profesional-cyan.vercel.app/)](https://portafolio-profesional-cyan.vercel.app/)](https://portafolio-profesional-cyan.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-portafolio--profesional--cyan.vercel.app-5ee7ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-profesional-cyan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sebastian--ramirez--acevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-ramirez-acevedo-2580ab2a5/)
 [![Email](https://img.shields.io/badge/Email-sebastianacevedo123.sra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianacevedo123.sra@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=SebastianRamirez1&color=5ee7ff&style=flat-square&label=Visitas+al+perfil)
 
 </div>
 
@@ -16,34 +14,32 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador backend con **6 meses de práctica profesional** en la Federación Antioqueña de ONG y **4 proyectos propios** publicados en GitHub. Construyo APIs REST, integro IA en flujos reales de negocio, aplico Clean Architecture y entrego código con pruebas y CI/CD.
+Desarrollador full-stack con **sistemas en producción**: uno opera a diario las ventas, el inventario y la caja de una distribuidora real. Tengo **6 meses de práctica profesional** en la Federación Antioqueña de ONG y **4 proyectos propios** en GitHub. Construyo APIs REST en tres stacks y frontends en React, integro IA en flujos de negocio y entrego código con pruebas y CI/CD.
 
 - 🏙️ Medellín / Bello, Colombia — disponible presencial o remoto
-- 🎓 Estudiante de **Ingeniería en Desarrollo de Software** · ITM
-- 🔍 Buscando mi primer rol junior en backend — **disponible ahora**
+- 🎓 Estudiante de **Tecnología en Desarrollo de Software** · ITM (articulada con Ingeniería)
+- 🔍 **Abierto a roles full-stack** — **disponible ahora**
 - 🤖 Interesado en IA aplicada, APIs REST y arquitectura limpia
-- 📄 [Ver mi hoja de vida](https://sebastianramirezportfolio.netlify.app/assets/Sebastian%20Ramirez%20Acevedo%20CV%20Actualizada.pdf)
+- 📄 [Ver mi hoja de vida](https://portafolio-profesional-cyan.vercel.app/assets/Sebastian-Ramirez-CV.pdf)
 
 ---
 
 ## 🚀 Proyecto destacado
 
-### 🤖 Automatización de pedidos por WhatsApp con IA
+### 🥚 Sistema de Gestión para Distribuidora — 🟢 EN PRODUCCIÓN
 
-> Backend que elimina la gestión manual de pedidos para negocios que reciben órdenes por WhatsApp. La IA interpreta los mensajes, registra los pedidos y envía confirmaciones automáticamente.
+> Sistema que opera **a diario** las ventas, el inventario, las cuentas de crédito y la caja de una distribuidora real en Antioquia que mueve **500–700 canastas diarias (picos de 900)**.
 
-[![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=flat-square&logo=github)](https://github.com/SebastianRamirez1/proyecto_whatsapp_automatizacion)
-[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_whatsapp_automatizacion)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_whatsapp_automatizacion)
-[![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_whatsapp_automatizacion)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_whatsapp_automatizacion)
-[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_whatsapp_automatizacion)
+[![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=flat-square&logo=github)](https://github.com/SebastianRamirez1/proyecto_distribuidora)
+[![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_distribuidora)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_distribuidora)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_distribuidora)
+[![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_distribuidora)
 
 **Lo que hace:**
-- Interpreta mensajes de WhatsApp con GPT-4o y extrae pedidos automáticamente
-- Máquina de estados: recibido → confirmado → preparación → despachado → entregado
-- API de administración con JWT, filtros y estadísticas de dashboard
-- Webhooks validados con HMAC-SHA256 · Pruebas end-to-end · Deploy en Railway
+- Ventas, inventario en tiempo real, precios dinámicos, cuentas de crédito y reportes de caja
+- **BigDecimal** para precisión monetaria + **DDD** (value objects Dinero, Precio, Cantidad)
+- Rate limiting en el login · **173 pruebas** (JUnit 5 + Mockito) · 37 endpoints en 11 controladores
 
 ---
 
@@ -52,12 +48,13 @@ Desarrollador backend con **6 meses de práctica profesional** en la Federación
 | Categoría | Tecnologías |
 |-----------|------------|
 | **Backend** | Java 17, Spring Boot 3.x, Python 3.11, FastAPI, Node.js 20, Fastify 5, TypeScript |
+| **Frontend** | React 18, JavaScript, HTML5, CSS3 |
 | **Bases de datos** | PostgreSQL, MySQL, Redis, Prisma ORM, Alembic |
-| **Testing** | JUnit 5, Mockito, pytest, Vitest — 140+ tests en producción |
+| **Testing** | JUnit 5, Mockito, pytest, Vitest — 380+ pruebas automatizadas |
 | **DevOps** | Docker, GitHub Actions, Railway, Render, Vercel |
-| **Integraciones** | OpenAI API, Meta Cloud API, JWT, Webhooks HMAC-SHA256 |
+| **Integraciones** | OpenAI API (GPT-4o), Meta Cloud API, JWT, Webhooks HMAC-SHA256 |
 | **Herramientas** | Git, Maven, IntelliJ IDEA, VS Code, Postman, Swagger / OpenAPI |
-| **Conceptos** | Clean Architecture, REST, CI/CD, MVC, DDD, Autenticación |
+| **Conceptos** | Clean Architecture, DDD, REST, CI/CD, Autenticación |
 
 ---
 
@@ -65,7 +62,7 @@ Desarrollador backend con **6 meses de práctica profesional** en la Federación
 
 ### 🏥 Portal de Bienestar ITM — API + Frontend
 
-> API centralizada para los servicios de bienestar del ITM: cafetería, salud mental, biblioteca, eventos y alertas. 7 módulos, 140+ tests, CI/CD completo.
+> API centralizada para los servicios de bienestar del ITM: cafetería, salud mental, biblioteca, eventos y alertas. 8 módulos, 148 pruebas (Vitest), caché con Redis y CI/CD completo.
 
 [![API](https://img.shields.io/badge/Ver_API-GitHub-181717?style=flat-square&logo=github)](https://github.com/SebastianRamirez1/proyecto_itm_bienestar)
 [![Frontend](https://img.shields.io/badge/Ver_Frontend-GitHub-181717?style=flat-square&logo=github)](https://github.com/SebastianRamirez1/proyecto_itm_bienestar_frontend)
@@ -78,7 +75,7 @@ Desarrollador backend con **6 meses de práctica profesional** en la Federación
 
 ### 🏥 API REST de Turnos Médicos — Clean Architecture
 
-> Sistema de gestión de citas médicas con arquitectura limpia en 4 capas, CI/CD con GitHub Actions y documentación automática con Swagger.
+> Sistema de gestión de citas médicas con Clean Architecture en 4 capas, CI/CD con GitHub Actions y documentación automática con Swagger. 18 endpoints · 29 pruebas.
 
 [![Código](https://img.shields.io/badge/Ver_código-GitHub-181717?style=flat-square&logo=github)](https://github.com/SebastianRamirez1/proyecto_turnos_medicos)
 [![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_turnos_medicos)
@@ -87,14 +84,15 @@ Desarrollador backend con **6 meses de práctica profesional** en la Federación
 
 ---
 
-### 🥚 Sistema de Gestión para Distribuidora
+### 🤖 Automatización de pedidos por WhatsApp con IA
 
-> Backend con lógica de negocio real: ventas, inventario en tiempo real, precios dinámicos, cuentas corrientes y reportes de caja. DDD + BigDecimal para precisión monetaria.
+> Backend que interpreta mensajes de WhatsApp con GPT-4o y registra pedidos automáticamente. Máquina de estados, webhooks HMAC-SHA256 y panel admin con JWT. 9 endpoints · 37 pruebas.
 
-[![Código](https://img.shields.io/badge/Ver_código-GitHub-181717?style=flat-square&logo=github)](https://github.com/SebastianRamirez1/proyecto_distribuidora)
-[![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_distribuidora)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_distribuidora)
-[![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_distribuidora)
+[![Código](https://img.shields.io/badge/Ver_código-GitHub-181717?style=flat-square&logo=github)](https://github.com/SebastianRamirez1/proyecto_whatsapp_automatizacion)
+[![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_whatsapp_automatizacion)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_whatsapp_automatizacion)
+[![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_whatsapp_automatizacion)
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://github.com/SebastianRamirez1/proyecto_whatsapp_automatizacion)
 
 ---
 
@@ -118,10 +116,10 @@ Desarrollador backend con **6 meses de práctica profesional** en la Federación
 
 ## 🌱 Actualmente
 
-- 🏢 Completada mi práctica en **Federación Antioqueña de ONG** (Dic 2024 – Jun 2025)
-- 🎓 Completando **Ingeniería en Desarrollo de Software** en el ITM
+- 🏢 Práctica profesional en **Federación Antioqueña de ONG** (Dic 2024 – Jun 2025)
+- 🎓 Cursando **Tecnología en Desarrollo de Software** en el ITM (6.º semestre, articulada con Ingeniería)
 - 🔭 Construyendo proyectos con IA aplicada a problemas reales de negocio
-- 💼 **Abierto a oportunidades** de trabajo como Desarrollador Backend Junior
+- 💼 **Abierto a oportunidades** como Desarrollador Full-Stack
 
 ---
 
@@ -129,7 +127,7 @@ Desarrollador backend con **6 meses de práctica profesional** en la Federación
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sebastianramirezportfolio-5ee7ff?style=for-the-badge)](https://portafolio-profesional-cyan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portafolio--profesional--cyan.vercel.app-5ee7ff?style=for-the-badge)](https://portafolio-profesional-cyan.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-ramirez-acevedo-2580ab2a5/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianacevedo123.sra@gmail.com)
@@ -141,7 +139,6 @@ Desarrollador backend con **6 meses de práctica profesional** en la Federación
 
 <div align="center">
 
-*Desarrollador backend construyendo soluciones reales con Java, Python y Node.js · Medellín, Colombia*
+*Desarrollador full-stack construyendo soluciones reales con Java, Python, Node.js y React · Medellín, Colombia*
 
 </div>
-
